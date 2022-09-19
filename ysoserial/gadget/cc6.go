@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"strings"
 
-	"github.com/JimmyWA/Gososerial/ysoserial/util"
+	"github.com/JimmyWA/gososerial/ysoserial/util"
 )
 
 const CC6 = "CommonsCollections6"

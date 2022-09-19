@@ -17,7 +17,7 @@ go get github.com/JimmyWA/Gososerial
 ```go
 package main
 
-import gososerial "github.com/JimmyWA/Gososerial"
+import gososerial "github.com/JimmyWA/gososerial"
 
 func main()  {
 	payload := gososerial.GetCC1("calc.exe")

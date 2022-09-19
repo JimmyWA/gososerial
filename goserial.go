@@ -1,7 +1,7 @@
 package gososerial
 
 import (
-	"github.com/JimmyWA/Gososerial/ysoserial/gadget"
+	"github.com/JimmyWA/gososerial/ysoserial/gadget"
 )
 
 func GetCC1(cmd string) []byte {

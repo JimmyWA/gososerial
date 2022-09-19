@@ -5,10 +5,10 @@ import (
 	"flag"
 	"fmt"
 
-	gososerial "github.com/JimmyWA/Gososerial"
-	"github.com/JimmyWA/Gososerial/log"
-	"github.com/JimmyWA/Gososerial/tool"
-	"github.com/JimmyWA/Gososerial/ysoserial/gadget"
+	"github.com/JimmyWA/gososerial"
+	"github.com/JimmyWA/gososerial/log"
+	"github.com/JimmyWA/gososerial/tool"
+	"github.com/JimmyWA/gososerial/ysoserial/gadget"
 )
 
 const (

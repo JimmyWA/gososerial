@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"strings"
 
-	"github.com/JimmyWA/Gososerial/tool"
+	"github.com/JimmyWA/gososerial/tool"
 )
 
 func GetTemplateImpl(cmd string) []byte {

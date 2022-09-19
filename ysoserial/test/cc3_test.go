@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	gososerial "github.com/JimmyWA/Gososerial"
+	gososerial "github.com/JimmyWA/gososerial"
 )
 
 func TestCC3(t *testing.T) {

@@ -3,7 +3,7 @@ package gadget
 import (
 	"encoding/hex"
 
-	"github.com/JimmyWA/Gososerial/ysoserial/util"
+	"github.com/JimmyWA/gososerial/ysoserial/util"
 )
 
 const CC4 = "CommonsCollections4"

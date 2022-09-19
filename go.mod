@@ -1,4 +1,4 @@
-module github.com/JimmyWA/Gososerial
+module github.com/JimmyWA/gososerial
 
 go 1.16
 
